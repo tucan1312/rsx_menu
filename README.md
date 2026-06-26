@@ -8,7 +8,7 @@ end)
 
 
 
-3.Credits
+Credits
 https://github.com/ktos93
 https://github.com/ESX-Org
 https://github.com/abdulkadiraktas
